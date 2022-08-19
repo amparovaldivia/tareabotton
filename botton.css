@@ -1,0 +1,33 @@
+#tecla_uno {
+    background-color: antiquewhite;
+    color: rgb(13, 240, 13);
+    font-weight: bold;
+    font-family: cursive;
+    border-radius: 20%;
+
+    width: 115px;
+    height: 41px;
+    outline: 1px solid rgb(12, 247, 12);
+    margin: 20px;
+}
+
+#tecla_dos {
+    background-color: aqua;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 40px;
+
+}
+
+#tecla_tres {
+    background-color: blue;
+    color: aliceblue;
+    width: 140px;
+    height: 40px;
+    font-family: Arial;
+    margin: 60px;
+    box-shadow: 20px 10px black;
+}
+
